@@ -18,6 +18,8 @@ def count_words(data):
     for example in data:
         label, sentence = example
         ## FILL CODE
+        word_total[]
+
         
 
     return {'label_counts': label_counts, 
